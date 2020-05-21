@@ -17,11 +17,3 @@ Welcome to wingsdoc's documentation!
    Handling of special assignment types
    Data table
 
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
