@@ -11,12 +11,7 @@ Welcome to wingsdoc's documentation!
    
    
    
-   Introduction to Wings<about.rst>
-   Unit testing automatic generation technology
-   Parameter Structure Description(PSD)
-   Introduction unit testing code
-   Introduction to GoogleTest code
-   Parameter capture code generation
-   Handling of special assignment types
-   Data table
+   Introduction to Wings<introduction.rst>
+   Unit testing automatic generation technology<unit.rst>
+   Parameter Structure Description(PSD)<psd.rst>
 
